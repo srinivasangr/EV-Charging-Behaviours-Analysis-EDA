@@ -5,7 +5,7 @@
 This project presents a detailed Exploratory Data Analysis (EDA) of electric vehicle (EV) charging session data collected from 16 different charging locations. The analysis was conducted as part of a data science internship role to uncover patterns in energy consumption, charging duration, power rates, and usage behavior across different chargers and timeframes.
 
 ---
-
+![EV Charger](figure.png)
 ## 📁 Dataset Description
 
 The dataset contains **277 EV charging events** with the following key features:
